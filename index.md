@@ -1,9 +1,6 @@
 How to cope with an unresponsive SME?
 =====================================
 
-
-<img src="https://images.unsplash.com/photo-1582578598774-a377d4b32223?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyMDQ0MDF8MHwxfHNlYXJjaHw1fHxzaGFraW5nJTIwaGFuZHN8ZW58MHwwfHx8MTY3MjgyNTE0MQ&ixlib=rb-4.0.3&q=80&w=1080" height='400' width="1080">
-
 A technical writer’s job is not about sitting still by your desk and doing your stuff patiently. During your work, you’ll need to contact various types of people to get the content you need and solve problems you’ll meet. The crucial person in this process is SME.
 
 >**A subject-matter expert (SME)** is a person who has accumulated great knowledge in a particular field or topic and this level of knowledge is demonstrated by the person's degree, licensure, and/or through years of professional experience with the subject.
